@@ -1,0 +1,7 @@
+cd "C:\Users\dipta\Documents\Subject\Urban and Regional Planning"
+git init
+git add "1.Personal Page.html"
+git commit -m "Initial commit: personal page"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/personal-page.git
+git push -u origin main
